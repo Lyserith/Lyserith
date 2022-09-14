@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="-2305.125 -485.127 5247.14 1111.115" width="5247.14" height="1111.115" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes a{0%,20%,32%,50%{fill:#fff}22%,24%,70%,90%{fill:#f9f}100%{fill:#fff}}
+    @keyframes b{0%,22%,34%,50%{fill:#fff}24%,26%,70%,90%{fill:#f9f}100%{fill:#fff}}
+    @keyframes c{0%,24%,36%,50%{fill:#fff}26%,28%,70%,90%{fill:#f9f}100%{fill:#fff}}
+    @keyframes d{0%,26%,38%,50%{fill:#fff}28%,30%,70%,90%{fill:#f9f}100%{fill:#fff}}
+    @keyframes e{0%,28%,40%,50%{fill:#fff}30%,32%,70%,90%{fill:#f9f}100%{fill:#fff}}
+    @keyframes f{0%,30%,42%,50%{fill:#fff}32%,34%,70%,90%{fill:#f9f}100%{fill:#fff}}
+    @keyframes g{0%,32%,44%,50%{fill:#fff}34%,36%,70%,90%{fill:#f9f}100%{fill:#fff}}
+    @keyframes h{0%,34%,46%,50%{fill:#fff}36%,38%,70%,90%{fill:#f9f}100%{fill:#fff}}
+  </style>
+  <g transform="matrix(0.1, 0, 0, -0.1, -2265.054932, 712.930481)" fill="#000000" stroke="none">
+    <path stroke-dasharray="32000" stroke-dashoffset="32000" style="fill:#fff;animation:a 5s infinite;stroke:#000;stroke-width:100px" d="M0 7050 l0 -4580 3335 0 3335 0 0 835 0 835 -2500 0 -2500 0 0 3745 0 3745 -835 0 -835 0 0 -4580z">
+        <animate attributeName="stroke-dashoffset" begin="50ms" dur="1s" to="0" fill="freeze" />
+    </path>
+    <path stroke-dasharray="47000" stroke-dashoffset="47000" style="fill:#fff;animation:b 5s infinite;stroke:#000;stroke-width:100px" d="M7500 7050 l0 -2080 625 0 625 0 0 -625 0 -625 1875 0 1875 0 0 -415 0 -415 -2500 0 -2500 0 0 -835 0 -835 2710 0 2710 0 0 625 0 625 625 0 625 0 0 3330 0 3330 -835 0 -835 0 0 -1870 0 -1870 -1665 0 -1665 0 0 1870 0 1870 -835 0 -835 0 0 -2080z">
+        <animate attributeName="stroke-dashoffset" begin="100ms" dur="1s" to="0" fill="freeze" />
+    </path>
+    <path stroke-dasharray="47000" stroke-dashoffset="47000" style="fill:#fff;animation:c 5s infinite;stroke:#000;stroke-width:100px" d="M16250 8510 l0 -620 -625 0 -625 0 0 -835 0 -835 625 0 625 0 0 -625 0 -625 1875 0 1875 0 0 -415 0 -415 -2500 0 -2500 0 0 -835 0 -835 2710 0 2710 0 0 625 0 625 625 0 625 0 0 835 0 835 -625 0 -625 0 0 625 0 625 -1875 0 -1875 0 0 415 0 415 2500 0 2500 0 0 830 0 830 -2710 0 -2710 0 0 -620z">
+        <animate attributeName="stroke-dashoffset" begin="150ms" dur="1s" to="0" fill="freeze" />
+    </path>
+    <path stroke-dasharray="37000" stroke-dashoffset="37000" style="fill:#fff;animation:d 5s infinite;stroke:#000;stroke-width:100px" d="M23750 8510 l0 -620 -625 0 -625 0 0 -2085 0 -2085 625 0 625 0 0 -625 0 -625 2710 0 2710 0 0 835 0 835 -2500 0 -2500 0 0 415 0 415 2500 0 2500 0 0 1460 0 1460 -625 0 -625 0 0 620 0 620 -2085 0 -2085 0 0 -620z m3750 -1455 l0 -415 -1665 0 -1665 0 0 415 0 415 1665 0 1665 0 0 -415z">
+        <animate attributeName="stroke-dashoffset" begin="200ms" dur="1s" to="0" fill="freeze" />
+    </path>
+    <path stroke-dasharray="32000" stroke-dashoffset="32000" style="fill:#fff;animation:e 5s infinite;stroke:#000;stroke-width:100px" d="M30000 5800 l0 -3330 835 0 835 0 0 1875 0 1875 625 0 625 0 0 625 0 625 1040 0 1040 0 0 -625 0 -625 835 0 835 0 0 835 0 835 -625 0 -625 0 0 620 0 620 -1460 0 -1460 0 0 -620 0 -620 -415 0 -415 0 0 620 0 620 -835 0 -835 0 0 -3330z">
+        <animate attributeName="stroke-dashoffset" begin="250ms" dur="1s" to="0" fill="freeze" />
+    </path>
+    <path stroke-dasharray="17000" stroke-dashoffset="17000" style="fill:#fff;animation:f 5s infinite;stroke:#000;stroke-width:100px" d="M37500 5800 l0 -3330 835 0 835 0 0 3330 0 3330 -835 0 -835 0 0 -3330z">
+        <animate attributeName="stroke-dashoffset" begin="300ms" dur="1s" to="0" fill="freeze" />
+    </path>
+    <path stroke-dasharray="7000" stroke-dashoffset="7000" style="fill:#fff;animation:f 5s infinite;stroke:#000;stroke-width:100px" d="M37500 10800 l0 -830 835 0 835 0 0 830 0 830 -835 0 -835 0 0 -830z">
+        <animate attributeName="stroke-dashoffset" begin="350ms" dur="1s" to="0" fill="freeze" />
+    </path>
+    <path stroke-dasharray="30000" stroke-dashoffset="30000" style="fill:#fff;animation:g 5s infinite;stroke:#000;stroke-width:100px" d="M41250 11005 l0 -625 -625 0 -625 0 0 -830 0 -830 625 0 625 0 0 -2500 0 -2500 625 0 625 0 0 -625 0 -625 835 0 835 0 0 835 0 835 -625 0 -625 0 0 2290 0 2290 625 0 625 0 0 830 0 830 -625 0 -625 0 0 625 0 625 -835 0 -835 0 0 -625z">
+        <animate attributeName="stroke-dashoffset" begin="400ms" dur="1s" to="0" fill="freeze" />
+    </path>
+    <path stroke-dasharray="45000" stroke-dashoffset="45000" style="fill:#fff;animation:h 5s infinite;stroke:#000;stroke-width:100px" d="M45000 7050 l0 -4580 835 0 835 0 0 1875 0 1875 625 0 625 0 0 625 0 625 1040 0 1040 0 0 -2500 0 -2500 835 0 835 0 0 2710 0 2710 -625 0 -625 0 0 620 0 620 -1460 0 -1460 0 0 -620 0 -620 -415 0 -415 0 0 1870 0 1870 -835 0 -835 0 0 -4580z">
+        <animate attributeName="stroke-dashoffset" begin="450ms" dur="1s" to="0" fill="freeze" />
+    </path>
+  </g>
+</svg>
